@@ -13,7 +13,7 @@ public class Main {
         System.out.println("field.ships.length = " + field.ships.length);
         System.out.println("Game start !");
 
-        // основной игровой цикл
+        // основной игровой цикл //
         do {
             field.show();   // показать игровое поле в начале
             int shoot = player.getShoot();  //получить от игрока выстрел, координаты выстрела
