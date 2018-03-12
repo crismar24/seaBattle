@@ -14,6 +14,8 @@ public class Main {
         System.out.println("Game start !");
 
         // основной игровой цикл //
+        // проверка
+        // проверка 2
         do {
             field.show();   // показать игровое поле в начале
             int shoot = player.getShoot();  //получить от игрока выстрел, координаты выстрела
