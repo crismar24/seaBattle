@@ -1,6 +1,7 @@
 /**
  * Created by Admin on 06.01.2018.
  */
+package ex0_seabattle;
 public class Field {
     static final int SIZE = 20;
     public static final int SHIPS_AMOUNT = 4;

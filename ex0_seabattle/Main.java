@@ -1,6 +1,7 @@
 /**
  * Created by Admin on 06.01.2018.
  */
+package ex0_seabattle;
 public class Main {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package ex0_seabattle;
+
 import java.util.Random;
 
 /**
