@@ -9,5 +9,6 @@ public class Main {
         Cat cat3 = new Cat("Kitty");
         cat3.showCatsAmount();
 
+
     }
 }
