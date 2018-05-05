@@ -11,7 +11,7 @@ public class UserRunner {
         users.add(new User("1", "first"));
         users.add(new User("2", "two"));
         users.add(new User("1", "first"));
-
+        //test repository
         for (User user : users) {
             System.out.println(user);
         }
