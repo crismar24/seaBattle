@@ -1,16 +1,19 @@
 package ex_Collection;
 
-import java.util.Collection;
-import java.util.Set;
-import java.util.SortedSet;
+import java.util.*;
 
 public class main {
 
     public static void main(String[] args) {
-        //Set<Integer> sortSet = new SortedSet<Integer>();
+        List<String> list = new ArrayList<>();
 
+        list.add("First");
+        list.add("Second");
 
+        for (String s : list) {
+            System.out.println(s);
 
+        }
     }
 
 }
